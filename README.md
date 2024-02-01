@@ -24,8 +24,9 @@ python -m venv env
 pip install -r requirements.txt
 ```
 
-### 3. Add the Resume and JD to the respective folders
+### 3. Add the Resume and JD files to their respective folders
 resume/resume.docx
+
 jd/jd.docx
 
 
