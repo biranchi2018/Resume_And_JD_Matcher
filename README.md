@@ -1,4 +1,4 @@
-# Resume_And_JD_Matcher
+# Resume and Job Description Matcher
 This script matches the Resume/CV against the Job Description. 
 
 This is helpful for the candidates, recruiters to evaulate the resume/cv matching score against the job description.
@@ -6,7 +6,7 @@ This is helpful for the candidates, recruiters to evaulate the resume/cv matchin
 
 ## Notes
 - Rename the resume/cv to resume.docx
-- Save the job description in .docx format
+- Save the job description as jd.docx 
 - Place the resume in the /resume folder 
 - Place the jd in the /jd folder
 
@@ -34,9 +34,10 @@ jd/jd.docx
 python3 app2.py 
 ```
 
+```cmd
 Output :
 Match Percentage: 47.32%
-
+``
 
 
 
